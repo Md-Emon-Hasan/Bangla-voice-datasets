@@ -1,0 +1,9 @@
+*.safetensors
+*.safetensors.index.json
+*.bin
+*.gguf
+*.pt
+tokenizer.json
+tokenizer.model
+__pycache__/
+.ipynb_checkpoints/
